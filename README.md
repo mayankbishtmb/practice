@@ -1,1 +1,2 @@
 # practice
+I want you to give me a prompt for GitHub Copilot so that Copilot can do all of this work.
